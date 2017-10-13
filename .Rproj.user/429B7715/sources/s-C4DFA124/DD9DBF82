@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1507870660106.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DD9DBF82",
+    "lastKnownWriteTime" : 1507877093,
+    "last_content_update" : 1507877093027,
+    "path" : "~/pi_estimator/pi_estimate/ui.R",
+    "project_path" : "pi_estimate/ui.R",
+    "properties" : {
+        "cursorPosition" : "42,4",
+        "scrollLine" : "22"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

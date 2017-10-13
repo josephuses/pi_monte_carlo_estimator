@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1507872677497.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "86D03DAA",
+    "lastKnownWriteTime" : 1507873311,
+    "last_content_update" : 1507873311373,
+    "path" : "~/pi_estimator/pi_monte_carlo_estimator.Rmd",
+    "project_path" : "pi_monte_carlo_estimator.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,332",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

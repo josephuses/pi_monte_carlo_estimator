@@ -1,0 +1,16 @@
+---
+title: "Untitled"
+author: "Joseph S. Tabadero, Jr."
+date: "October 13, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What does the Pi Monte Carlo Estimator do?
+
+We have learned from geometry that the area of a circle is $\pi r^2$, where $r$ is the radius of the circle. But how did early mathematicians estimate the value of $\pi$? More importantly, how can you estimate the value of $\pi$? Well, for one, if we know the area of the cirlce and the radius of the circle, we can solve for $\pi$!
+
+This app estimates the value of $\pi$ using Monte Carlo simulation. The idea is that 
